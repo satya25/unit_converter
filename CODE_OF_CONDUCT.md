@@ -34,7 +34,7 @@ This Code of Conduct applies both within project spaces (such as repositories an
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [spnigam25@yahoo.com]. All complaints will be reviewed and investigated promptly and fairly.
 
 All project participants are obligated to respect the privacy and security of the reporter of any incident.
 
